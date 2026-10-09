@@ -22,4 +22,4 @@ Data Transformation and Modelling Using Power Query
 
 3. Outcome  
 
-The transformation and modelling process improved data consistency, structure, and usability. The resulting dataset was prepared for further analysis and visualization in Power BI.# Data-Transformation-and-Modelling
+The transformation and modelling process improved data consistency, structure, and usability. The resulting dataset was prepared for further analysis and visualization in Power BI.
